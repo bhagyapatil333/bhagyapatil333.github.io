@@ -1,5 +1,5 @@
 ## Bhagya's Profile
-![picture](https://github.com/bhagyapatil333/bhagyapatil333.github.io/tree/main/Images)
+![picture](Images)
 I am Bhagya Patil from Navajo Technical University. My research interests are  
 - Image Processing
 - Machine learning
