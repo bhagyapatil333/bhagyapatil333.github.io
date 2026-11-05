@@ -4,5 +4,6 @@ I am Bhagya Patil from Navajo Technical University. My research interests are
 - Machine learning
 - Deep learning
 
-- LinkedIn: https://www.linkedin.com/in/bhagya-patil-ph-d-66630148/
+- LinkedIn [here](https://www.linkedin.com/in/bhagya-patil-ph-d-66630148/)
+- Researchgate [here](https://www.researchgate.net/profile/Bhagya-Patil-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
   
